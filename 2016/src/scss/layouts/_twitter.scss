@@ -1,0 +1,13 @@
+#l-twitter-button{
+    position: absolute;
+    right: 49px;
+    top: calc(50% - 14px);
+}
+
+@media (max-width: $breakpoint) {
+	#l-twitter-button{
+	    position: absolute;
+	    right: 8px;
+	    top: calc(50% - 28px);
+	}
+}
