@@ -1,0 +1,10 @@
+mixin card(id, image, name, caption)
+	article.card(data-id = id)
+		div.card-image.imagebox(style='background-image:url('+ image + ');' )
+
+		div.card-caption
+			h1.card-title
+				!= name
+
+			p
+				!= caption

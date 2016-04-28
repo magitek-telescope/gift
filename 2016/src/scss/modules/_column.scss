@@ -1,0 +1,30 @@
+.column{
+	&.column-2{
+		width: calc(50% - 90px);
+		padding: 10px;
+		margin: 30px;
+		background: #fff;
+
+		border-radius: 4px;
+		box-shadow: 0 0 1px rgba(0,0,0,0.1);
+	}
+
+	&.column-emerald{
+		color: #fff;
+		background: #94E8E4;
+	}
+
+	&.column-pink{
+		color: #fff;
+		background: #EA7B6F;
+	}
+}
+
+@media (max-width: $breakpoint){
+	.column{
+		&.column-2{
+			width: calc(100% - 20px);
+			margin:15px 0;
+		}
+	}
+}

@@ -1,0 +1,23 @@
+.logo{
+	margin: 0;
+	color: #555;
+
+	a{
+		text-decoration: none;
+	}
+
+	.logo-icon,
+	.logo-text{
+		display: block;
+	}
+
+	.logo-icon{
+		color: #C22E1E;
+		font-size: 32px;
+	}
+
+	.logo-text{
+		font-size: 16px;
+		color: #777;
+	}
+}

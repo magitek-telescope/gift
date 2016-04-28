@@ -1,0 +1,40 @@
+.passport{
+	display: flex;
+
+	.passport-image{
+		display: flex;
+		width: 100px;
+		height: 100px;
+		font-size: 80px;
+		align-items: center;
+		justify-content: center;
+
+		i{
+			background-color: #fff;
+	        -webkit-background-clip: text;
+			-moz-background-clip: text;
+			background-clip: text;
+			color: transparent;
+			text-shadow: rgba(255,255,255,0.4) 0px 2px 2px;
+		}
+	}
+
+	.passport-content{
+		width: calc(100% - 120px);
+		padding: 0 10px;
+
+		.passport-content-title{
+			margin-top: 10px;
+			padding-top: 0;
+			font-weight: normal;
+		}
+	}
+}
+
+@media (max-width: $breakpoint){
+	.passport{
+		.passport-content{
+			font-size: 12px;
+		}
+	}
+}

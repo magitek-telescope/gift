@@ -1,0 +1,25 @@
+.l-container{
+	width: 1260px;
+	padding: 10px;
+	max-width: calc(100vw - 20px);
+	margin: 0 auto;
+
+	&.l-container-flex{
+		display: flex;
+		flex-wrap: wrap;
+
+		&.l-container-flex-center{
+			justify-content:center;
+		}
+
+		&.l-container-flex-between{
+			justify-content:space-between;
+		}
+	}
+}
+
+@media (max-width: $breakpoint) {
+	.l-container{
+		width: calc(100% - 20px);
+	}
+}

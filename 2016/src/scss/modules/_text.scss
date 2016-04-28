@@ -1,0 +1,11 @@
+@each $align in $textaligns{
+	.text-#{$align}{
+		text-align: #{$align};
+	}
+}
+
+@each $size in $textsizes{
+	.text-#{$size}{
+		font-size: #{$size}px;
+	}
+}
