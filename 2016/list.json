@@ -1,0 +1,93 @@
+{
+	"info": {
+		"person": "7",
+		"items" : "232"
+	},
+
+	"presents": [
+		{
+			"id": "1",
+			"name": "ソイジョイ",
+			"count": "48",
+			"image": "res/images/soyjoy.jpg",
+			"caption": "d-kamiさんから大豆の力を頂きました。最近常時携帯してます。"
+		},
+		{
+			"id": "2",
+			"name": "カラーコーン",
+			"count": "10",
+			"image": "res/images/trafficcone.jpg",
+			"caption": "多分てお氏から届いたいたずらです。自宅の交通整備に使うことにしました。"
+		},
+		{
+			"id": "3",
+			"name": "カーボンポール",
+			"count": "2",
+			"image": "res/images/carbon_poll.jpg",
+			"caption": "多分てお氏から届いたいたずらです。カラーコーンとあわせて使ってドラマー目指します。"
+		},
+		{
+			"id": "4",
+			"name": "入門 React ― コンポーネントベースのWebフロントエンド開発",
+			"count": "1",
+			"image": "res/images/react.jpg",
+			"caption": "尾上さんから頂いた、JavaScriptライブラリ「React.js」の書籍です。SPAを作れということか……"
+		},
+		{
+			"id": "5",
+			"name": "Child of Light",
+			"count": "1",
+			"image": "res/images/child-of-light.png",
+			"caption": "ひつぶ氏から頂いた、Steamゲームです。はやくプレイしたい。"
+		},
+		{
+			"id": "6",
+			"name": "無水エタノール",
+			"count": "1",
+			"image": "res/images/ethanol.jpg",
+			"caption": "多分てお氏から届いた悪質ないたずらです。送り返してやろうか。"
+		},
+		{
+			"id": "7",
+			"name": "アルミホイル",
+			"count": "1",
+			"image": "res/images/sun_foil.jpg",
+			"caption": "多分てお氏から届いたいたずらです。実用性抜群、ネタにしづらい。"
+		},
+		{
+			"id": "8",
+			"name": "ポテトチップス<br>うすしお味",
+			"count": "12",
+			"image": "res/images/potato.jpg",
+			"caption": "ぱくとまから頂いたポテトチップスです。全て同じ味なのが哀愁を誘います。"
+		},
+		{
+			"id": "9",
+			"name": "魔法の世紀",
+			"count": "1",
+			"image": "res/images/mahou_seiki.jpg",
+			"caption": "友人から<s>たかることによって</s>頂きました。落合氏の著書です。これセカもほしい。"
+		},
+		{
+			"id": "10",
+			"name": "Arduinoをはじめようセット",
+			"count": "1",
+			"image": "res/images/arduino.jpg",
+			"caption": "どなたかわからないのですが頂きました。せっかくですし何か作ったらTwitterにあげます。"
+		},
+		{
+			"id": "11",
+			"name": "UI GRAPHICS ― 世界の成功事例から学ぶ、スマホ以降のインターフェイスデザイン",
+			"count": "1",
+			"image": "res/images/ui_graphics.jpg",
+			"caption": "d-kamiさんから頂いたデザインの書籍です。がんばるぞい。"
+		},
+		{
+			"id": "12",
+			"name": "サガミ ラブタイム",
+			"count": "144",
+			"image": "res/images/lovetime.jpg",
+			"caption": "絶対てお氏。こんなん人生で使う機会絶対ねぇよバーカバーカ。"
+		}
+	]
+}
