@@ -1,4 +1,14 @@
 .main{
-	background: #F5F8FA;
+	background: url("../images/background.png");
 	padding-top: 76px;
+
+	.main-title{
+		font-size: 40px;
+		padding: 50px 0;
+		color: #333;
+
+		&:first-letter{
+			font-size: 1.2em;
+		}
+	}
 }
