@@ -28,7 +28,7 @@
 		},
 		{
 			"id": "4",
-			"name": "入門 React ― コンポーネントベースのWebフロントエンド開発",
+			"name": "入門 React",
 			"count": "1",
 			"image": "res/images/react.jpg",
 			"caption": "尾上さんから頂いた、JavaScriptライブラリ「React.js」の書籍です。SPAを作れということか……"
@@ -56,10 +56,10 @@
 		},
 		{
 			"id": "8",
-			"name": "ポテトチップス<br>うすしお味",
+			"name": "ポテトチップス",
 			"count": "12",
 			"image": "res/images/potato.jpg",
-			"caption": "ぱくとまから頂いたポテトチップスです。全て同じ味なのが哀愁を誘います。"
+			"caption": "ぱくとまから頂いたポテトチップスです。全てうすしお味なのが哀愁を誘います。"
 		},
 		{
 			"id": "9",
@@ -70,14 +70,14 @@
 		},
 		{
 			"id": "10",
-			"name": "Arduinoをはじめようセット",
+			"name": "Arduino",
 			"count": "1",
 			"image": "res/images/arduino.jpg",
-			"caption": "どなたかわからないのですが頂きました。せっかくですし何か作ったらTwitterにあげます。"
+			"caption": "どなたかわからないのですが、Arduinoのオールインワンセットを頂きました。せっかくですし何か作ったらTwitterにあげます。"
 		},
 		{
 			"id": "11",
-			"name": "UI GRAPHICS ― 世界の成功事例から学ぶ、スマホ以降のインターフェイスデザイン",
+			"name": "UI GRAPHICS",
 			"count": "1",
 			"image": "res/images/ui_graphics.jpg",
 			"caption": "d-kamiさんから頂いたデザインの書籍です。がんばるぞい。"
